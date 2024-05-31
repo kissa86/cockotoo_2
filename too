@@ -13,7 +13,7 @@ $.each(contentArray, function(index, newLine) {
             $('body, html').scrollTop($(document).height());
           }, index*5);
       });
-      
+      ddd
     }, index*100);
 });
 var printText = $('.text').data('text');
