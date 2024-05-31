@@ -17,7 +17,7 @@ $.each(contentArray, function(index, newLine) {
     }, index*100);
 });
 var printText = $('.text').data('text');
-
+gfd
 var contentArray = printText.split('/n');
 $.each(contentArray, function(index, newLine) {
   $('.text').append('<span style="display:block;" id="'+index+'"></span>');
