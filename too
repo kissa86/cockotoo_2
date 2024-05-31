@@ -15,7 +15,7 @@ $.each(contentArray, function(index, newLine) {
       });
       shit
     }, index*100);
-});
+});ffff
 var printText = $('.text').data('text');
 breakpoint
 var contentArray = printText.split('/n');
